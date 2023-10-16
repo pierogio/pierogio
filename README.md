@@ -30,7 +30,7 @@ When I'm not crunching numbers or coding away, I love to travel and explore new 
 <a href="https://github.com/pierogio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/piero-giorgio-744290244" target="_blank">
+<a href="https://linkedin.com/in/pierogio" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href = "mailto:vpierogiorgiooo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
