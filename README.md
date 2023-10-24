@@ -30,8 +30,13 @@ Currently, I'm further enhancing my skills through ongoing education, focusing o
 ## 🌍 Interests
 👀 I'm a passionate data enthusiast focused on AI, ML, Data Science, Data Analytics, Big Data, and programming. 
 When I'm not crunching numbers or coding away, I love to travel and explore new places, while my curiosity drives me to constantly learn and grow both personally and professionally.
- 
 
+- 👯 I’m looking to collaborate on **Data Science & Data Analytics and related Projects.**
+
+- ⚡ Fun fact: I'm a geek for **One Piece, Marvel Comics, and The Lord of the Rings**.
+
+- 👨‍💻 My first project in Data Science:  **https://github.com/pierogio/Ethereum_Price_Prediction_with_Time_Series_Models_ARIMA_and_Prophet.git**
+ 
 ## 📫 Connect with me 
 <div align="center">
 <a href="https://github.com/pierogio" target="_blank">
