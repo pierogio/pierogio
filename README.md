@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=pierogio&&style=flat-square" align="center" />
 </div>  
 
-# Hello, World! 👋 I'm Piero.
+# Hi 👋! I'm Piero.
 
 I'm a Data Scientist Junior.
 
