@@ -12,7 +12,7 @@ I'm a Data Scientist Junior.
 
 ## 🎓 Education
 Although my background is in acounting and administration, I recently graduated from a Data Science boot camp, an intensive program that equipped me with the necessary tools and knowledge to analyze and interpret complex datasets. In addition to my recent studies, I have completed a Java backend boot camp and a Python course in the past. These experiences have provided me with knowledge in Python, SQL and basic PHP, HTML, CSS and Java. 
-Currently, I'm further enhancing my skills through ongoing education, focusing on programming and relational databases. I'm excited about the journey ahead and eager to apply my expanding knowledge to real-world challenges.
+Currently, I'm further enhancing my skills through ongoing education, focusing on Data Analytics. I'm excited about the journey ahead and eager to apply my expanding knowledge to real-world challenges.
 
 ## 💻 Skills
 <div align="center">  
