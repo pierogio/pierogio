@@ -8,7 +8,7 @@
 
 # Hi 👋! I'm Piero.
 
-I'm an Entry-Level Data Analyst and Data Science Enthusiast.
+I'm a Data Enthusiast.
 
 ## 🎓 Education
 Although my background is in acounting and administration, I recently graduated from a Data Science boot camp, an intensive program that equipped me with the necessary tools and knowledge to analyze and interpret complex datasets. In addition to my recent studies, I have completed a Java backend boot camp and a Python course in the past. These experiences have provided me with knowledge in Python, SQL and basic PHP, HTML, CSS and Java. 
